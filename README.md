@@ -9,7 +9,7 @@
 
 # Ignite_Elixir_Challenge_04
 
-Elixir challenge done with 'Rocketseat' Ignite course. ("Desafio 04 - Gerando relatórios com paralelismo &amp; Relatório de reservas de voos &amp; Testando a aplicação")
+Elixir challenge done with 'Rocketseat' Ignite course. ("Desafio 04 - Gerando relatórios com paralelismo & Reservas de voo & Relatório de reservas de voos & Testando a aplicação")
 
 # Desafio - Gerando relatórios com paralelismo
 ## 💻 Sobre o desafio
